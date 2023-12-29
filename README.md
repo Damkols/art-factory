@@ -1,3 +1,5 @@
+# Creating my ZkNFT
+
 ## Documentation
 
 The full documentation can be found [here](https://art.privacypride.com/)
@@ -38,7 +40,6 @@ Run a local server on localhost:3000.
 ```bash
 yarn dev
 ```
-
 
 ### 6) Build
 
